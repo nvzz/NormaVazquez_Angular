@@ -1,0 +1,42 @@
+* {
+    font-family: helvetica;
+    box-sizing: border-box;
+    font-weight: bold
+}
+
+main{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-fluid.title{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+span{
+    color: red;
+    font-size: 0.75rem
+}
+.btn.btn-primary.btn-block{
+    margin-top: 10px;
+    text-align: center
+}
+
+input{
+    margin-left: 10px
+}
+
+.row.space{
+    margin: 15px;
+}
+
+.container{
+    background-color: white; 
+    
+}
+.form-element{
+    padding: 15px;
+}

@@ -1,0 +1,40 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+body{
+  background-color: #FFE5CB;
+    padding-bottom: 25px;
+}
+
+footer{
+  background-color: #EEEEEE;
+  width: 100%;
+  bottom: 0;
+  position: fixed;
+}
+
+.container-fluid.nav-cont{
+  padding: 0px;
+}
+
+.container-fluid.footer{
+  padding: 15px 0px;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+.title-footer{
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.col-3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.link-footer{
+  text-decoration: none;
+  color: black
+}
